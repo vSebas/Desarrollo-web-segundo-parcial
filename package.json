@@ -1,0 +1,20 @@
+{
+  "name": "parcial2",
+  "version": "1.0.0",
+  "description": "Web development second partial exam",
+  "main": "parcial2/parcial2_a01232474.js",
+  "scripts": {
+    "test": "nodemon parcial2/parcial2_a01232474.js"
+  },
+  "author": "Sebastian Mtz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16",
+    "vue": "^3.2.33"
+  }
+}

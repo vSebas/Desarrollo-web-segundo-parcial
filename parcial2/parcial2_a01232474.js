@@ -1,8 +1,4 @@
 import('./mongodb_connection.js');
-
-const morgan = require('morgan');
-const bodyParse = require('body-parser');
-const cors = require('cors');
 const student = require('./models/Tasks')
 
 async function getStudentById (id) {
